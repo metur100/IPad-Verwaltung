@@ -1,1 +1,5 @@
-# IPad-Verwaltung
+# Projekt Verwaltung IPad
+
+Das Berufskolleg Hilden gibt IPads an Schüler aus. Dieser Vorgang soll mit Hilfe einer elektronischen Datenverarbeitung (EDV) verwaltet werden. Dazu soll eine Applikation mit einer graphischen Oberfläche zur Bedienung dieses Vorgangs gestaltet werden. Die zugehörigen Daten sollen in einer Datenbank gepflegt werden.
+
+Ausgabe und Rücknahme der Geräte soll an die Klassen über einen der beiden Klassenlehrer erfolgen. Der ausgebende Lehrer ordnet ein Gerät einem Schüler zu (Leihvorgang) und gibt es aus. Der Schüler quittiert mit seiner Unterschrift auf einem Ausleihschein den Empfang des Geräts. Vor der Rückgabe sollen die Geräte von den Entleihern in den Ausgangszustand gebracht werden (Rücksetzung des IPads). Der Klassenlehrer nimmt das Gerät vom Schüler zurück, notiert die Rückgabe auf dem Ausleihschein und trägt beim Leihvorgang ein Rückgabedatum ein sowie Bemerkungen zur Vollständigkeit bzw. Schäden am Gerät. Bei den Schäden sollen typische Schäden wie z.B. „Bildschirm zerkratzt“ vorgegeben werden, aber auch individuelle Einträge möglich sein. Ein Gerät kann natürlich auch mehrere Schäden haben. Wenn ein Schüler die Klasse wechselt, wird er vom neuem Klassenlehrer verwaltet.
